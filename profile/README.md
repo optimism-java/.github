@@ -8,3 +8,4 @@ We continue to contribute public goods to help the Ethereum and Optimism communi
 - [mev-share-java](https://github.com/optimism-java/mev-share-java) is a Java client library for Flashbots MEV-share Matchmaker.
 - [blob-archiver-rs](https://github.com/optimism-java/blob-archiver-rs) is a service to archive and allow querying of all historical blobs from the beacon chain written in Rust.
 - [superproof](https://github.com/optimism-java/dispute-explorer-frontend) is a fault proof explorer to visualize dispute game progress and statistics.
+- [zephyrus](https://github.com/optimism-java/zephyrus) is an ethereum consensus client written in Zig.
